@@ -1,3 +1,3 @@
 # Deep-Learning-Projects
 
-This repository consists of deep learning projects made by me.
+This repository consists of Deep learning projects made by me.
