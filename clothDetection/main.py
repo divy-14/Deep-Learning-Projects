@@ -19,8 +19,8 @@ x_test = x_test / 255.0
 print(cloth_names[y_train[2]])
 plt.show()'''
 
-'''var = [5, 10]
-best =0
+'''var = [5, 10]    # To train the model for the first time uncomment this.
+best =0    
 
 for i in var:
     (x_train, y_train), (x_test, y_test) = data.load_data()
