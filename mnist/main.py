@@ -15,7 +15,7 @@ list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 var = [5, 10]
 best = 0
 
-'''
+'''  # train the model with the whole dataset for more accuracy
 for i in var:
     model = keras.Sequential()
     model.add(keras.layers.Flatten(input_shape=(28, 28)))
